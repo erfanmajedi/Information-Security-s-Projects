@@ -1,0 +1,24 @@
+
+Pinging 185.211.88.131 with 32 bytes of data:
+Reply from 185.211.88.131: bytes=32 time=4ms TTL=61
+Reply from 185.211.88.131: bytes=32 time=4ms TTL=61
+Reply from 185.211.88.131: bytes=32 time=7ms TTL=61
+Reply from 185.211.88.131: bytes=32 time=4ms TTL=61
+
+Ping statistics for 185.211.88.131:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 7ms, Average = 4ms
+185.211.88.131 is up 
+
+Pinging aut.ac.ir [185.211.88.131] with 32 bytes of data:
+Reply from 185.211.88.131: bytes=32 time=4ms TTL=61
+Reply from 185.211.88.131: bytes=32 time=4ms TTL=61
+Reply from 185.211.88.131: bytes=32 time=4ms TTL=61
+Reply from 185.211.88.131: bytes=32 time=3ms TTL=61
+
+Ping statistics for 185.211.88.131:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 4ms, Average = 3ms
+aut.ac.ir is up 

@@ -1,0 +1,1 @@
+Port 25 is openPort 80 is openPort 443 is openPort 465 is openPort 587 is open
